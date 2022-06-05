@@ -8,6 +8,7 @@ module.exports = {
       accent: "#F096E2",
       lightGray: "#F4F4F4",
       black: "#000000",
+      error: "#C56969",
     },
     fontFamily: {
       bebas: ["Bebas Neue", "sans-serif"],
